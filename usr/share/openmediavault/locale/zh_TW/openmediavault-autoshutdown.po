@@ -1,16 +1,16 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the openmediavault-autoshutdown package.
 # 
 # Translators:
-# kochin <kochinc@outlook.com>, 2014
+# kochin <kochinc@outlook.com>, 2014,2016
 msgid ""
 msgstr ""
 "Project-Id-Version: openmediavault-autoshutdown\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-03-26 09:25-0500\n"
-"PO-Revision-Date: 2016-03-26 14:25+0000\n"
-"Last-Translator: Aaron Murray <aaronmurray27@gmail.com>\n"
+"POT-Creation-Date: 2018-02-21 07:24-0600\n"
+"PO-Revision-Date: 2017-09-21 14:00+0000\n"
+"Last-Translator: kochin <kochinc@outlook.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/openmediavault-plugin-developers/openmediavault-autoshutdown/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,16 +34,16 @@ msgid "Check Clock to identify forced uptime."
 msgstr "檢查時鐘來辨認強制的運行時間。"
 
 msgid "Check Users"
-msgstr ""
+msgstr "檢查使用者"
 
 msgid "Check for connected users."
-msgstr ""
+msgstr "檢查已連接之使用者"
 
 msgid "Check smbstatus"
-msgstr ""
+msgstr "檢查 smbstatus"
 
 msgid "Check smbstatus for connected clients."
-msgstr ""
+msgstr "檢查已連接使用者之 smbstatus"
 
 msgid "Cycles"
 msgstr "循環數"
@@ -66,7 +66,7 @@ msgid "End"
 msgstr "結束"
 
 msgid "Enter a single dash '-' in the field to disable check."
-msgstr ""
+msgstr "在欄位中輸入單一 '-' 來停止檢查。"
 
 msgid ""
 "Example: 50 means a loadaverage of 0.50, 8 means a loadaverage of 0.08, 220 "
@@ -92,7 +92,7 @@ msgid "General settings"
 msgstr "一般設定"
 
 msgid "HDDIO Rate"
-msgstr ""
+msgstr "HDDIO 速率"
 
 msgid "Hibernate"
 msgstr "休眠"
@@ -112,7 +112,7 @@ msgid "List of Ports"
 msgstr "通訊埠列表"
 
 msgid "Load Average"
-msgstr ""
+msgstr "負載平均值"
 
 msgid "Log"
 msgstr "日誌"
@@ -161,7 +161,7 @@ msgid "Suspend"
 msgstr "暫停"
 
 msgid "Suspend-Hybrid"
-msgstr ""
+msgstr "暫停-混合"
 
 msgid "Syslog Configuration"
 msgstr "Syslog 設置"
@@ -173,10 +173,10 @@ msgid "Type"
 msgstr "型式"
 
 msgid "ULDL Rate"
-msgstr ""
+msgstr "ULDL 速率"
 
 msgid "Uphours"
-msgstr ""
+msgstr "運作時數"
 
 msgid "Verbose"
 msgstr "詳盡"
